@@ -48,7 +48,7 @@ public class ClasseMain {
 		System.out.println("Ele possui status negativos (s/n)? ");
 		String opicao = scanner.nextLine();
 		
-		if(opicao == "s"){
+		if(opicao.equals("s")){
 			atributoNegPokemon = true;
 			
 		}
