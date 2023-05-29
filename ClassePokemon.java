@@ -1,5 +1,3 @@
-package atvmt;
-
 public class ClassePokemon {
 	private String pokemonNome;
 	private String[] habilidades;
